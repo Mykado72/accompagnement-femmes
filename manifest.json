@@ -1,0 +1,14 @@
+{
+  "name": "Pleinement",
+  "short_name": "Pleinement",
+  "description": "Ton espace du quotidien pour te reconnecter à toi.",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F5F0F7",
+  "theme_color": "#2E1F33",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
